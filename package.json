@@ -27,6 +27,6 @@
     "eslint-config-rallycoding": "^3.2.0",
     "eslint-import-resolver-meteor": "^0.4.0",
     "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-meteor": "^4.1.4"
+    "eslint-plugin-meteor": "^4.2.2"
   }
 }
